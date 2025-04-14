@@ -4,7 +4,7 @@ This repository contains my personal code and notes from completing the **"PyTor
 
 ---
 
-## 📚 Course Overview
+##  Course Overview
 
 | Chapter | Topics Covered                        | Notebook(s) |
 |---------|----------------------------------------|-------------|
