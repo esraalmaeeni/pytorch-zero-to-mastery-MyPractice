@@ -1,1 +1,43 @@
 # pytorch-zero-to-mastery-MyPractice
+# 🧠 PyTorch - Zero to Mastery Course Notes
+
+This repository contains my personal code and notes from completing the **"PyTorch for Deep Learning"** course (50+ hours) by [Zero to Mastery](https://zerotomastery.io/). It covers foundational and advanced topics in PyTorch, structured across 5 chapters and 8 hands-on Colab notebooks.
+
+---
+
+## 📚 Course Overview
+
+| Chapter | Topics Covered                        | Notebook(s) |
+|---------|----------------------------------------|-------------|
+| 1️⃣     | Introduction, tensors, and basics      | `01_pytorch_basics.ipynb` |
+| 2️⃣     | Building models & PyTorch workflow     | `02_pytorch_workflow.ipynb` |
+| 3️⃣     | Computer Vision & CNNs                 | `03_cnn_classification.ipynb`, `04_cnn_experiments.ipynb` |
+| 4️⃣     | Transfer Learning                      | `05_transfer_learning.ipynb` |
+| 5️⃣     | NLP & Time Series with RNNs/Transformers | `06_nlp_basics.ipynb`, `07_transformers_intro.ipynb` |
+| 🧪     | Projects and final experiments          | `08_final_project.ipynb` |
+
+---
+
+## 🚀 How to Use
+
+You can open any of the notebooks in [Google Colab](https://colab.research.google.com/) directly:
+
+1. Click the notebook file.
+2. Press **"Open in Colab"**.
+3. Run and explore!
+
+---
+
+## 📂 Files in This Repo
+
+```plaintext
+📦 pytorch-zero-to-mastery
+├── 01_pytorch_basics.ipynb
+├── 02_pytorch_workflow.ipynb
+├── 03_cnn_classification.ipynb
+├── 04_cnn_experiments.ipynb
+├── 05_transfer_learning.ipynb
+├── 06_nlp_basics.ipynb
+├── 07_transformers_intro.ipynb
+├── 08_final_project.ipynb
+└── README.md
