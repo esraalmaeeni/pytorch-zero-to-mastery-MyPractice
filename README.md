@@ -1,4 +1,3 @@
-# pytorch-zero-to-mastery-MyPractice
 # PyTorch - Zero to Mastery Course Notes
 
 This repository contains my personal code and notes from completing the **"PyTorch for Deep Learning"** course (50+ hours) by [Zero to Mastery](https://zerotomastery.io/). It covers foundational and advanced topics in PyTorch, structured across 5 chapters and 8 hands-on Colab notebooks.
