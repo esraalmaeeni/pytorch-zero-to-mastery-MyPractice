@@ -14,29 +14,3 @@ This repository contains my personal code and notes from completing the **"PyTor
 | 4️     | Transfer Learning                      | `05_transfer_learning.ipynb` |
 | 5️     | NLP & Time Series with RNNs/Transformers | `06_nlp_basics.ipynb`, `07_transformers_intro.ipynb` |
 | 6     | Projects and final experiments          | `08_final_project.ipynb` |
-
----
-
-## How to Use
-
-You can open any of the notebooks in [Google Colab](https://colab.research.google.com/) directly:
-
-1. Click the notebook file.
-2. Press **"Open in Colab"**.
-3. Run and explore!
-
----
-
-## 📂 Files in This Repo
-
-```plaintext
- pytorch-zero-to-mastery
-├── 01_pytorch_basics.ipynb
-├── 02_pytorch_workflow.ipynb
-├── 03_cnn_classification.ipynb
-├── 04_cnn_experiments.ipynb
-├── 05_transfer_learning.ipynb
-├── 06_nlp_basics.ipynb
-├── 07_transformers_intro.ipynb
-├── 08_final_project.ipynb
-└── README.md
