@@ -6,10 +6,6 @@ This repository contains my personal code and notes from completing the **"PyTor
 
 ##  Course Overview
 
-### 📘 Course Overview
-
-### 📘 Course Overview
-
 | Chapter | Topics Covered                       | Notebook(s)                                                                 |
 |---------|--------------------------------------|-----------------------------------------------------------------------------|
 | 1       | Introduction, tensors, and basics    | `00_01_PyTorch_Fundamentals_MyPractice.ipynb`                               |
