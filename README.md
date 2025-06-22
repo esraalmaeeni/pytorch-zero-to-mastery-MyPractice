@@ -8,8 +8,7 @@ This repository contains my notes and practice code from completing the **"PyTor
 
 | Chapter | Topics Covered                       | Notebook(s)                                                                 | 
 |---------|--------------------------------------|-----------------------------------------------------------------------------|
-| 1       | Introduction, tensors, and basics    |  [![`00_01_PyTorch_Fundamentals_MyPractice.ipynb`](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/esraalmaeeni/docs/00_01_PyTorch_Fundementals_WorkFlow_MyPractice_GitHub@esraalmaeeni.ipynb)
-                              |
+| 1       | Introduction, tensors, and basics    |  `00_01_PyTorch_Fundamentals_MyPractice.ipynb`                              |
 | 2       | Building models & PyTorch workflow   | `02_Deep_Learning_MyPractice.ipynb`                                         |
 | 3       | Computer Vision & CNNs               | `03_Computer_Vision_MyPractice.ipynb`                                       |
 | 4       | Custom Datasets & Data Handling      | `04_Custom_Dataset_MyPractice.ipynb`                                        |
