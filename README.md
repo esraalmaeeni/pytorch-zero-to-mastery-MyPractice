@@ -14,5 +14,5 @@ This repository contains my notes and practice code from completing the **"PyTor
 | 4       | Custom Datasets & Data Handling      | `04_Custom_Dataset_MyPractice.ipynb`                                        |
 | 5       | Modular PyTorch Code                 | `05_Going_Modular_Cell_Model_MyPractice.ipynb`, `05_Going_Modular_Script_Model_MyPractice.ipynb` |
 | 6       | Transfer Learning                    | `06_Transfer_Learning_MyPractice.ipynb`                                     |
-| 7       | Experiment Tracking                  | `06_Experiment_Tracking_MyPractice.ipynb`                                     |
+| 7       | Experiment Tracking                  | `07_Experiment_Tracking_MyPractice.ipynb`                                     |
 
