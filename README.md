@@ -15,4 +15,4 @@ This repository contains my notes and practice code from completing the **"PyTor
 | 5       | Modular PyTorch Code                 | `05_Going_Modular_Cell_Model_MyPractice.ipynb`, `05_Going_Modular_Script_Model_MyPractice.ipynb` |
 | 6       | Transfer Learning                    | `06_Transfer_Learning_MyPractice.ipynb`                                     |
 | 7       | Experiment Tracking                  | `07_Experiment_Tracking_MyPractice.ipynb`                                     |
-
+|8        |Vision Transformers (ViT)             | `08_ViT_Transformers_Paper_Replication_MyPractice.ipynb`                       |
