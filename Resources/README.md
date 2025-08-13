@@ -58,14 +58,14 @@ This document collects all external links.
 ---
 
 ## Model Deployment
-- [Gradio](https://www.gradio.app/) — Quickly create web-based UIs for machine learning models.  
-- [Hugging Face Spaces](https://huggingface.co/spaces) — Free hosting for ML demos using Gradio or Streamlit.  
-- [Streamlit](https://streamlit.io/) — Build and share data apps in minutes.  
-- [FastAPI](https://fastapi.tiangolo.com/) — High-performance web framework for deploying ML models as APIs.  
-- [Docker](https://www.docker.com/) — Containerize and deploy ML applications.  
-- [AWS SageMaker](https://aws.amazon.com/sagemaker/) — Fully managed service to build, train, and deploy ML models.  
-- [ONNX Runtime](https://onnxruntime.ai/) — Cross-platform, high-performance scoring engine for ML models.  
-- [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) — Flexible, high-performance serving system for TensorFlow models.  
-- [TorchServe](https://pytorch.org/serve/) — Serving framework for PyTorch models.  
+- [Gradio](https://www.gradio.app/).
+- [Hugging Face Spaces](https://huggingface.co/spaces).  
+- [Streamlit](https://streamlit.io/).  
+- [FastAPI](https://fastapi.tiangolo.com/).  
+- [Docker](https://www.docker.com/).  
+- [AWS SageMaker](https://aws.amazon.com/sagemaker/).  
+- [ONNX Runtime](https://onnxruntime.ai/).  
+- [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving).  
+- [TorchServe](https://pytorch.org/serve/).  
 
 ---
