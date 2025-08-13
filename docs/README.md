@@ -1,7 +1,8 @@
 # 📂 Course Notebooks
 
-This folder contains all the interactive Jupyter notebooks from the **PyTorch - Zero to Mastery Course Notes**.  
-You can view them directly on GitHub or open them in Google Colab to run and experiment.
+This folder includes my personal practice notebooks from the **PyTorch - Zero to Mastery** course.  
+They are shared here in case they might help someone learn or revise the concepts.  
+You can browse them on GitHub or open them in Google Colab to explore and experiment.
 
 ---
 
