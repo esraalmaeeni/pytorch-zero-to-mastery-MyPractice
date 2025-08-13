@@ -1,94 +1,71 @@
-# 📚 PyTorch Zero to Mastery — Notebook Summaries & Resources
+# 📚 Resources
 
-## 00/01 — PyTorch Fundamentals Workflow
-- **Overview:** Introduction to PyTorch and its workflow.
-- **Key Focus:**  
-  - Utility of PyTorch for computer vision tasks.
+This document collects all external links.
 
 ---
 
-## 02 — Deep Learning MyPractice
-- **Overview:** Neural network classification — predicting an item's category.
-- **Highlights:**  
-  - Difference between **PyTorch** (deep learning framework) and **scikit-learn** (general ML library).
+## 📖 General References
+- [Real Python – Python Application Layouts](https://realpython.com/python-application-layouts/)
+- [Horace – BRRR Intro](https://horace.io/brrr_intro.html)
+- [Papers with Code](https://paperswithcode.com/)
+- [Made With ML](https://madewithml.com/)
 
 ---
 
-## 03 — Computer Vision MyPractice
-- **Overview:** Using PyTorch for computer vision.
-- **Key Libraries:**  
-  - `torchvision.datasets` → for datasets  
-  - `torchvision.models` → for pretrained models  
-  - `torchvision.transforms` → for image manipulation
+## 🗂 Datasets
+- [ImageNet](https://image-net.org/)
 
 ---
 
-## 04 — Custom Dataset MyPractice
-- **Overview:** Creating a custom dataset in PyTorch.
-- **Example:**  
-  - Uses a subset of **Food101** dataset for faster experimentation.
+## 📄 Research Papers & Articles
+- [An Image is Worth 16x16 Words (ViT Paper)](https://arxiv.org/pdf/2010.11929)
+- [arXiv Main Page](https://arxiv.org/)
+- [Attention is All You Need](https://arxiv.org/abs/1706.03762)
+- [Illustrated Transformer – Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
 
 ---
 
-## 05 — Going Modular Script Mode MyPractice
-- **Overview:** Transitioning from **cell mode** to **script mode** by modularizing code into reusable `.py` files (e.g., `train.py`).
-- **Resources:**  
-  - [Real Python: Python Application Layouts](https://realpython.com/python-application-layouts/)  
-  - Horace: `brrr_intro`
+## 👨‍💻 People & GitHub Repositories
+- [Ahmed Khaliq – Twitter/X](https://x.com/_akhaliq)
+- [Lucidrains – ViT PyTorch Implementation](https://github.com/lucidrains/vit-pytorch)
+- [Joseph Misiti – Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ---
 
-## 06 — Transfer Learning MyPractice
-- **Definition:** Using pretrained models (a.k.a. *foundation models*) and fine-tuning them for a new task.
-- **Benefits:**  
-  - Leverage proven architectures  
-  - Faster results with less data  
-  - Reduced overfitting
-- **Resources:**  
-  - [PyTorch Vision Models](https://pytorch.org/vision/stable/models.html)  
-  - [Torch Image Models (timm)](https://github.com/rwightman/pytorch-image-models)  
-  - [Hugging Face Models](https://huggingface.co/models)  
-  - [Papers with Code SOTA](https://paperswithcode.com/sota)  
-  - [TensorFlow Hub](https://tfhub.dev/)  
-  - [Keras Applications](https://keras.io/api/applications/)  
-  - [ONNX Models](https://github.com/onnx/models)  
-  - [OpenVINO Models](https://github.com/openvinotoolkit/open_model_zoo)
+## 🛠 Machine Learning Platforms & Tools
+- [Hugging Face](https://huggingface.co/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [OpenReview](https://openreview.net/)
+- [Semantic Scholar](https://www.semanticscholar.org/)
 
 ---
 
-## 07 — Experiment Tracking MyPractice
-- **Overview:** Tracking experiments to compare models and choose the best one.
-- **Tools Mentioned:**  
-  - TensorBoard  
-  - Weights & Biases  
-  - MLflow  
-  - Python dictionaries
-- **Resources:**  
-  - [TDS: A Comprehensive Comparison of ML Experiment Tracking Tools](https://towardsdatascience.com/a-comprehensive-comparison-of-ml-experiment-tracking-tools-4f0397d78c62)
+## 📊 Experiment Tracking
+- [A Comprehensive Comparison of ML Experiment Tracking Tools](https://towardsdatascience.com/a-comprehensive-comparison-of-ml-experiment-tracking-tools-9f0192543feb/)
 
 ---
 
-## 08 — ViT Transformers Paper Replication MyPractice
-- **Focus:** Replicating a research paper to build ML skills.
-- **Content:**  
-  - Explains research paper structure and purpose of each section.
-- **Resources:**  
-  - [Original ViT Paper PDF](https://arxiv.org/abs/2010.11929)  
-  - [arXiv](https://arxiv.org/)  
-  - [Papers with Code](https://paperswithcode.com/)  
-  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)  
-  - [Hugging Face](https://huggingface.co/)  
-  - [Towards Data Science](https://towardsdatascience.com/)  
-  - [OpenReview](https://openreview.net/)  
-  - [Semantic Scholar](https://www.semanticscholar.org/)  
-  - [Attention Is All You Need Paper](https://arxiv.org/abs/1706.03762)  
-  - [Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+## 🔄 Transfer Learning & Pre-trained Models
+- [PyTorch Pre-trained Models](https://pytorch.org/vision/stable/models.html)
+- [PyTorch Image Models (timm)](https://github.com/rwightman/pytorch-image-models)
+- [Hugging Face Models](https://huggingface.co/models)
+- [Papers with Code – State of the Art](https://paperswithcode.com/sota)
+- [TensorFlow Hub](https://tfhub.dev)
+- [Keras Applications](https://keras.io/api/applications/)
+- [ONNX Models](https://github.com/onnx/models)
+- [OpenVINO Model Zoo](https://docs.openvino.ai/latest/omz_models_group.html)
 
 ---
 
-## 09 — Model Deployment MyPractice
-- **Definition:** Making a trained model available for real-world use (app, website, etc.).
-- **Key Point:**  
-  - True performance can only be measured after deployment.
+## 🚀 Model Deployment
+- [Gradio](https://www.gradio.app/) — Quickly create web-based UIs for machine learning models.  
+- [Hugging Face Spaces](https://huggingface.co/spaces) — Free hosting for ML demos using Gradio or Streamlit.  
+- [Streamlit](https://streamlit.io/) — Build and share data apps in minutes.  
+- [FastAPI](https://fastapi.tiangolo.com/) — High-performance web framework for deploying ML models as APIs.  
+- [Docker](https://www.docker.com/) — Containerize and deploy ML applications.  
+- [AWS SageMaker](https://aws.amazon.com/sagemaker/) — Fully managed service to build, train, and deploy ML models.  
+- [ONNX Runtime](https://onnxruntime.ai/) — Cross-platform, high-performance scoring engine for ML models.  
+- [TensorFlow Serving](https://www.tensorflow.org/tfx/guide/serving) — Flexible, high-performance serving system for TensorFlow models.  
+- [TorchServe](https://pytorch.org/serve/) — Serving framework for PyTorch models.  
 
 ---
