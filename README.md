@@ -16,3 +16,4 @@ This repository contains my notes and practice code from completing the **"PyTor
 | 6       | Transfer Learning                    | `06_Transfer_Learning_MyPractice.ipynb`                                     |
 | 7       | Experiment Tracking                  | `07_Experiment_Tracking_MyPractice.ipynb`                                     |
 |8        |Vision Transformers (ViT)             | `08_ViT_Transformers_Paper_Replication_MyPractice.ipynb`                       |
+|9        |Model Deployment                      | `09_Model_Deployment_MyPractice.ipynb`                                         |
